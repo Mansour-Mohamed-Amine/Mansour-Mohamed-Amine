@@ -20,7 +20,7 @@
 
 <!-- Animated neural network: neural-network.svg -->
 <p align="center">
-  <img src="assets/neural-network.svg" alt="Animated neural network training: forward pass, backpropagation and decreasing loss" width="100%" />
+  <img src="/neural-network.svg" alt="Animated neural network training: forward pass, backpropagation and decreasing loss" width="100%" />
 </p>
 
 ---
