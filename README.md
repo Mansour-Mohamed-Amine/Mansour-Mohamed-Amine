@@ -31,7 +31,7 @@
 class MohamedAmine:
     def __init__(self):
         self.role      = "AI & Data Science Engineering Student"
-        self.school    = ["ESPRIM — Engineering, AI & Data Science (3rd year)",
+        self.school    = ["ESPRIM — Engineering, AI & Data Science (5th year)",
                           "FSM — Master's, Information Systems Engineering"]
         self.location  = "Tunisia 🇹🇳 — Remote-ready"
         self.focus     = ["Computer Vision", "NLP", "End-to-end AI apps"]
