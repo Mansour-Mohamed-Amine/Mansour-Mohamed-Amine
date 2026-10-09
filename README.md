@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mansour-Mohamed-Amine&color=A78BFA&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
-<!-- Animated neural network: assets/neural-network.svg -->
+<!-- Animated neural network: neural-network.svg -->
 <p align="center">
   <img src="assets/neural-network.svg" alt="Animated neural network training: forward pass, backpropagation and decreasing loss" width="100%" />
 </p>
